@@ -1,0 +1,21 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.1",
+    "bootstrap-icons": "^1.9.1",
+    "next": "^11.0.0",
+    "react": "17.0.2",
+    "react-bootstrap": "^2.5.0",
+    "react-bootstrap-icons": "^1.8.4",
+    "react-chat-engine": "^1.11.23",
+    "react-dom": "17.0.2"
+  }
+}
